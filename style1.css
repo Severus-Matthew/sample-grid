@@ -1,0 +1,16 @@
+.Grid {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: slategrey;
+    padding-left: 15px;
+    
+}
+cell {
+    background-color : white;
+    margin: 1px;
+    height: 30px;
+    width: 30px;
+    
+  
+}
+ 
